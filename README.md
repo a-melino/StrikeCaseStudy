@@ -1,9 +1,11 @@
 # StrikeCaseStudy
 Module 1 Assignment - Strike Case Study
 
+![Strike Logo](StrikeLogo.jpg)
+
 ## Overview
 
-Strike is a payments comapny founded by Jack Mallers in 2019. The company offers instant global payments using the Bitcoin network.
+Strike is a payments comapny founded by Jack Mallers in 2019. The company offers instant global payments using the Bitcoin network. Merchants around the world use Strike's API to facilitate instant payments across the globe and enables payments between buyers and sellers on marketplace platforms.
 
 
 ## Business Activities
@@ -36,4 +38,9 @@ Stripe, BitPay, Revolut Bank, Valora, PayMobil, Western Union, Banks
 
 
 ### References
+
+#### [1] https://strike.me/
+#### [2] 
+#### [3] 
+#### [4] 
 
