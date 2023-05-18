@@ -7,7 +7,7 @@ Module 1 Assignment
 #
 ## Overview
 
-Strike is a payments company founded by Jack Mallers in 2020. The company offers instant global payments using the Bitcoin blockchain via the Lightning Network with no added transaction fees. Merchants around the world use Strike's API to facilitate instant payments across the globe, and marketplaces using Strike enable payments between buyers and sellers on the marketplaces' platforms. Additionally, users of Strike can buy and sell Bitcoin on the platform and also have the option of having their paycheques converted directly into Bitcoin. [1]
+Strike is a payments company founded by Jack Mallers in 2020. The company offers instant global payments using the Bitcoin blockchain via the Lightning Network with no added transaction fees. According to the Strike official website, "marketplaces use Strike’s API to enable payments between buyers and sellers or fans and creators. Merchants use Strike’s API to accept payments from customers globally". Additionally, users of Strike can buy and sell Bitcoin on the platform and also have the option of having their paycheques converted directly into Bitcoin. [1]
 
 #
 ## Business Activities
@@ -25,14 +25,14 @@ The use of the Lightning Network greatly increases transaction speed when compar
 #
 ## Landscape
 
-As of 2023,  Strike has an additional benefit; the ability for users to instantly send US dollars through Bitcoin's Lightning Network. This effectively allows companies that use Strike's API to reach a global customer base without the need of a third-party banking system or payment processor, and allows users to easily avoid Bitcoin's volatility if they so choose. [5]
+As of 2023,  Strike has an additional benefit; the ability for users to instantly send US dollars through Bitcoin's Lightning Network. According to The Cryptonomist, "this is a first, as it allows companies to access new markets and customers without the need for a bank account or payment processor. With Strike, companies can reach customers in countries where traditional payment methods are unavailable or too expensive".[5] Additionally, this allows users to easily avoid Bitcoin's volatility if they so choose.
 
 Traditional remittance companies, such as a Western Union, often charge multiple fees for international payments such as transfer fees, intermediary bank fees, and correspondent bank fees. [6] This gives Strike as obvious and overwhelming advantage and allows them to be competitive in a worldwide landscape almost immediately, additionally avoiding the need for brick-and-mortar storefronts that most money transfer companies and banks currently use. 
 
 #
 ## Results
 
-High speed, low fees, ease of use, lack of overhead costs, leveraging Bitcoin's security; with these competitive advantages, Strike has the potential to upset the traditional financial system and usher in a more efficient and inclusive global economy. [5]
+High speed, low fees, ease of use, lack of overhead costs, leveraging Bitcoin's security; with these competitive advantages, Strike has the potential to upset the traditional financial system and usher in a "more efficient and inclusive global economy". [5]
 
 #
 ## Recommendations
